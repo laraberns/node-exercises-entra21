@@ -3,6 +3,7 @@
 Welcome to the Nodejs-Entra21-Practice repository! 📘
 
 - This repository is dedicated to honing our Node.js skills through exercises from the 'Entra 21' program. Let's embark on a journey of learning and improvement together! 😄
+- At present, our focus lies in the development of a website featuring a login application. Through the utilization of CRUD operations, users can seamlessly create, read, delete, and modify login credentials.
 
 <br>
 <br>
